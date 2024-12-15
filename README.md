@@ -1,1 +1,3 @@
-# project_PAA
+# Nama: Siti Hajar
+# Stambuk: F55123063
+# Kelas: Informatika (B)
